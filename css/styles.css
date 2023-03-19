@@ -12196,13 +12196,13 @@ textarea.form-control-lg {
 }
 
 .btn-wsp{
-  width: 350px;
-  height: 200px;
+  width: 40px;
+  height: 40px;
   background: #0df053;
   color: white;
   border-radius: 50%;
   padding: 30px;
-  font-size: 80px;
+  font-size: 30px;
 }
 
 .btn-wsp:hover{
@@ -12212,13 +12212,13 @@ textarea.form-control-lg {
 }
 
 .btn-lnk{
-  width: 280px;
-  height: 280px;
+  width: 40px;
+  height: 40px;
   background-color: var(--bs-blue);
   color: white;
   border-radius: 50%;
   padding: 30px;
-  font-size: 80px;
+  font-size: 30px;
 }
 
 .btn-lnk:hover{
@@ -12228,17 +12228,21 @@ textarea.form-control-lg {
 }
 
 .btn-gth{
-  width: 280px;
-  height: 280px;
+  width: 40px;
+  height: 40px;
   background-color: black;
   color: white;
   border-radius: 50%;
   padding: 30px;
-  font-size: 80px;
+  font-size: 30px;
 }
 
 .btn-gth:hover{
   text-decoration: none;
   background-color: white;
   color: black;
+}
+
+#card {
+    border: blue 3px double;
 }
